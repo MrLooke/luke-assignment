@@ -17,5 +17,4 @@ After the packages are installed, running 'npm start' will run the app in the de
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### `Vercel`
-This site is deployed on Vercel at: https://vercel.com/mrlooke/luke-assignment
-
+This site is deployed on Vercel at: https://luke-assignment.vercel.app/
