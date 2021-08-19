@@ -178,10 +178,10 @@ class App extends Component {
                                 onChange={this.handleUpdate}
                             />
                     </div>
-                    <div className="align-items-center">
+                    <div className="d-flex justify-content-center align-self-center">
                         <button 
                             type="button"
-                            className="btn btn-primary px-4"
+                            className="btn btn-primary px-4 mx-1 my-2"
                             onClick={this.handleSubmit}>
                                 OK
                         </button>
