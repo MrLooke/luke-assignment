@@ -16,3 +16,6 @@ This needs to be done before starting the React app.
 After the packages are installed, running 'npm start' will run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### `Vercel`
+This site is deployed on Vercel at: https://vercel.com/mrlooke/luke-assignment
+
